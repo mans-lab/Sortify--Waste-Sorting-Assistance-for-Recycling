@@ -1,0 +1,5 @@
+{
+  "name": "SORTIFY-LOCAL",
+  "description": "A local mock-version of the Sortify waste management platform that runs without API keys.",
+  "requestFramePermissions": []
+}
